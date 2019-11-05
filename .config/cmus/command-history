@@ -1,0 +1,18 @@
+pl-create Feuerschwanz
+pl-edit
+pl-create Irish
+delete-pl
+pl-delete
+rm-pl
+pl-cre
+pl-ce
+set mouse=true
+mouse true
+-f
+pl-export Feuerschwanz
+pl-rename Feuerschwanz
+pl-rename 
+set color_win_sel_attr=default
+wq
+set continue=true
+bind -f browser backspace browser-up
